@@ -1,0 +1,15 @@
+ipykernel
+numpy 
+pandas
+matplotlib
+seaborn
+flask
+httpx
+mlflow
+scikit-learn
+keras
+tensorflow
+hyperopt
+dvc
+dagshub
+dvc-s3
